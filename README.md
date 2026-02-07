@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Yanis
 
-<!--
-**yanishmk/yanishmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Developer & Data Analyst**  
+I build data-driven applications, dashboards, and backend solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🎓 Completed **3 years of Computer Engineering studies**
+- 💻 Strong foundations in **software development & data analysis**
+- 📊 Experienced with analytics tools and dashboarding
+- 🛠️ Interested in scalable systems, APIs, and real-world products
+- 📈 Long-term focus: building impactful and profitable tech solutions
+
+---
+
+## 🧑‍💻 Programming Languages
+- **Java**
+- **C / C++**
+- **Python**
+- **R**
+- **SQL**
+- **HTML / CSS**
+
+---
+
+## 📊 Data & Analytics
+- **Data Analysis:** Pandas, NumPy  
+- **Visualization & Dashboards:** Power BI, Matplotlib, Seaborn  
+- **Machine Learning:** Scikit-learn (basics)  
+- **Databases:** MySQL, PostgreSQL  
+
+---
+
+## 🛠️ Tools & Technologies
+- Git & GitHub  
+- Jupyter Notebook  
+- Power BI  
+- Linux / Windows  
+
+---
+
+## 📌 What I'm Working On
+- Data analysis & data engineering projects  
+- Backend logic and APIs  
+- Improving software architecture and clean code practices  
+
+---
+
+## 🎯 Goals
+- Combine **software development + data analytics**
+- Build scalable and useful products  
+- Grow as a high-impact tech professional  
+
+---
+
+## 📫 Contact
+- GitHub: **@your-username**
+- LinkedIn: *(optional)*
+
+---
+
+⭐ Always learning. Always building.
