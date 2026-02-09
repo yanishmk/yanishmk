@@ -2,6 +2,7 @@
 
 🚀 **Software Developer & Data Analyst**  
 I build data-driven applications, dashboards, and backend solutions.
+my profile https://yanishmk.github.io/profile_site_web/#
 
 ---
 
