@@ -53,11 +53,7 @@ my profile https://yanishmk.github.io/profile_site_web/#
 - Build scalable and useful products  
 - Grow as a high-impact tech professional  
 
----
 
-## 📫 Contact
-- GitHub: **@your-username**
-- LinkedIn: *(optional)*
 
 ---
 
