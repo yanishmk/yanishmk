@@ -35,7 +35,7 @@ my profile https://yanishmk.github.io/profile_site_web/#
 
 ## 🛠️ Tools & Technologies
 - Git & GitHub  
-- Jupyter Notebook  
+- Jupyter Notebook / colab 
 - Power BI  
 - Linux / Windows  
 
